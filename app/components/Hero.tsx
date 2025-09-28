@@ -40,7 +40,7 @@ export default function Hero() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden border-8 border-white dark:border-gray-700 shadow-2xl">
                 <Image
-                  src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/pink_outfit-compressed.jpg-z1yRnkwb69zcXbLvROjQibZ2TRmKsA.jpeg"
+                  src="/images/design-mode/pink_outfit-compressed.jpg.jpeg"
                   alt="Kapil B - Mechatronics Engineer"
                   width={320}
                   height={320}
